@@ -1,0 +1,76 @@
+baseurl = "https://flamepointbrewing.com"
+DefaultContentLanguage = "en"
+title = "Flame Point Brewing"
+theme = "brewgo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+
+[security]
+  enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Brewing in Marianna, FL since 2019"
+  mainSections = ["beers"]
+  logo = "images/avatar.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Params.author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  jname = "Chris Baker"
+  jwebsite = "flamepointbrewing.com"
+  email = "info@flamepointbrewing.com"
+  facebook = "61572783650248"
+  github = "https://github.com/cgbaker/flamepointbrewing.com"
+  instagram = "flamepointbrewing"
+  # youtube = "user/username" # or channel/channelname
+
+[[menu.main]]
+    name = "About Us"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Our Beers"
+    identifier = "beers"
+    url = "beers/"
+    weight = 2
+
+[[menu.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 3

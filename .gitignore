@@ -1,0 +1,7 @@
+
+.DS_Store
+.devenv.flake.nix
+.devenv/
+devenv.lock
+
+.hugo_build.lock

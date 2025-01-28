@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Flame Point Brewing</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Flame Point Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>info@flamepointbrewing.com</managingEditor>
+    <webMaster>info@flamepointbrewing.com</webMaster>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About us</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@flamepointbrewing.com</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;h2 id=&#34;flame-point-brewing&#34;&gt;Flame Point Brewing&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proprieters: Chris and Kelly Baker&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are a home brewery operating in Marianna, FL since 2019.&#xA;We specialize in low-gravity beers (typically around 3% ABV) influenced&#xA;by traditional styles. We brew for friends and family, and we&#xA;serve our beers at charity events around Northwest Florida.&lt;/p&gt;&#xA;&lt;h3 id=&#34;our-history&#34;&gt;Our History&lt;/h3&gt;&#xA;&lt;p&gt;Chris began homebrewing after moving to Albuquerque, New Mexico, inspired by&#xA;coworkers at &lt;a href=&#34;https://sandia.gov&#34;&gt;Sandia National Labs&lt;/a&gt; and members of the&#xA;&lt;a href=&#34;https://www.dukesofale.com/&#34;&gt;Dukes of Ale Homebrew Club&lt;/a&gt;. Carrying this hobby&#xA;with him to Knoxville, TN, onto Tallahassee, FL, and eventually back to&#xA;Marianna, FL, Chris has continuously focused on brewing accessible session&#xA;beers that may not be commercially available. Alongside occasional stints&#xA;helping out at &lt;a href=&#34;https://www.southernfieldsbrewingco.com/&#34;&gt;Southern Fields Brewing&#xA;Company&lt;/a&gt;, Chris enjoys brewing small&#xA;batches in the garage, alongside the brewery&amp;rsquo;s namesake and mascot, Kiki the&#xA;&lt;a href=&#34;https://happywhisker.com/flame-point-siamese-cat/&#34;&gt;flame point Siamese&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
