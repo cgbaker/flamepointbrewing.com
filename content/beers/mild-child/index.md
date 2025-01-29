@@ -1,10 +1,10 @@
 ---
-title: "Mild Child"
 weight: 2
-bjcp:
-  category: "beer"
-  style: "13A"
-data:
+params:
+  name: "Mild Child"
+  bjcp_url: "https://www.bjcp.org/style/2021/13/13A/dark-mild/"
+  bjcp_name: "Dark Mild"
+  bjcp_id: "13A"
   og: 1.038
   fg: 1.014
   ibus: 18
