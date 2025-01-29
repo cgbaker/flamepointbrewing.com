@@ -10,7 +10,7 @@
     <webMaster>info@flamepointbrewing.com</webMaster>
     <atom:link href="http://localhost:1313/beers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Czech Again</title>
+      <title></title>
       <link>http://localhost:1313/beers/czech-again/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@flamepointbrewing.com</author>
       <guid>http://localhost:1313/beers/czech-again/</guid>

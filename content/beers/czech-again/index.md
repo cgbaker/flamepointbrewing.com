@@ -1,10 +1,10 @@
 ---
-title: "Czech Again"
 weight: 1
-bjcp:
-  category: "beer"
-  style: "3A"
-data:
+params:
+  name: "Czech Again"
+  bjcp_url: "https://www.bjcp.org/style/2021/3/3A/czech-pale-lager/"
+  bjcp_name: "Czech Pale Lager"
+  bjcp_id: "3A"
   og: 1.031 
   fg: 1.005
   ibus: 31

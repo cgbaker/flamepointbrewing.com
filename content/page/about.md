@@ -26,5 +26,8 @@ Company](https://www.southernfieldsbrewingco.com/), Chris enjoys brewing small
 batches in the garage, alongside the brewery's namesake and mascot, Kiki the
 [flame point Siamese](https://happywhisker.com/flame-point-siamese-cat/).
 
-![A picture of a white cat with blue eyes and orange marking on the extremeties of the face and body](/images/kiki.jpg)
-
+{{< figure 
+  src="/images/kiki.jpg"
+  alt="A picture of a white cat with blue eyes and orange marking on the extremeties of the face and body"
+  width="80%"
+>}}
