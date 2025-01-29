@@ -1,6 +1,7 @@
 ---
 title: "Introducing: Flame Point Brewing"
 date: 2025-01-27
+author: Chris
 ---
 
 After pouring at the 2025 [Paws for
