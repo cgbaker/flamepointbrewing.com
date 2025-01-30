@@ -1,7 +1,7 @@
 ---
+title: "Very Ordinary"
 weight: 6
 params: 
-  name: "Very Ordinary"
   bjcp_url: "https://www.bjcp.org/style/2021/11/11A/ordinary-bitter/"
   bjcp_name: "Ordinary Bitter"
   bjcp_id: "11A"
@@ -12,7 +12,7 @@ params:
 ---
 
 This was another beer in our exploration of the low-gravity British styles. It
-was also an attempt to break away from making the Dark Mild over and over
-again. We kegged this in the historical style, with very little carbonation and
-served at 55ªF. The result was a flavorful beer that wasn't filling, as great
-session beer.
+was also an attempt to break away from repeated batches of the [Dark Mild]({{<
+ref "mild-child" >}}). We kegged this in the historical style, with very little
+carbonation, and served it at 55ªF. The result was a flavorful beer that wasn't
+filling, a great session beer.
