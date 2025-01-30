@@ -1,6 +1,5 @@
 ---
 title: About us
-# subtitle: 'Proprieters: Chris and Kelly Baker'
 comments: false
 ---
 
@@ -26,7 +25,7 @@ helping out at [Southern Fields Brewing
 Company](https://www.southernfieldsbrewingco.com/), Chris enjoys brewing small
 batches in the garage and serving them with Kelly wherever we get the chance.
 
-| <!-- --> | <!-- --> | 
+||| 
 |:--:|:--:|
 | {{< figure 
       src="/images/kelly-chris.jpg" 

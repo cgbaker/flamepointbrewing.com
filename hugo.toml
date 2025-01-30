@@ -18,11 +18,11 @@ pygmentsCodefencesGuessSyntax = true
       unsafe = false
 
 [Params]
-  #homeTitle = "Blah Blah Blah"
+  homeTitle = "Flame Point Brewing"
   #subtitle = "Brewing in Marianna, FL since 2019"
   mainSections = ["beers"]
-  logo = "images/avatar.png" # Expecting square dimensions
-  favicon = "img/favicon.ico"
+  logo = "images/avatar.png"
+  favicon = "images/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
