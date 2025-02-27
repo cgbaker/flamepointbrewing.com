@@ -1,11 +1,12 @@
 ---
 title: About us
 comments: false
+bigimg: [{"src": "/images/equipment.jpg"}]
 ---
 
 ## Flame Point Brewing
 
-**Proprieters: Chris and Kelly Baker**
+**Proprieters**: Chris and Kelly Baker \
 **Brewing Club**: [North Florida Brewers League](https://nfbl.org/)
 
 We are a home brewery operating in Marianna, FL since 2019. 

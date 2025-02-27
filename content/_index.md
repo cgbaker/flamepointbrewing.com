@@ -1,4 +1,5 @@
-&nbsp;
+---
+---
 {{< columns >}}
   {{< figure 
     src="/images/logo.png"
@@ -19,4 +20,3 @@
   Thanks for stopping by!  
 
 {{< endcolumns >}}
-

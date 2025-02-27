@@ -1,5 +1,5 @@
 ---
-title: "Old Posts"
+title: "Previous Brewing Posts"
 date: 2025-02-17
 author: Chris
 ---
