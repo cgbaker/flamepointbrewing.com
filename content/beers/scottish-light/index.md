@@ -1,5 +1,5 @@
 ---
-title: "Scottish 60"
+title: "Wee Babby"
 weight: 7
 params: 
   bjcp_url: "https://www.bjcp.org/style/2021/14/14A/scottish-light/"
