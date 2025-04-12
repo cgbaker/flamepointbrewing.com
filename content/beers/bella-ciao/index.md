@@ -9,6 +9,9 @@ params:
   fg: 1.008
   ibus: 28
   abv: 4.6
+  awards: 
+    bronze: 
+    - 2025 National Homebrew Competition (1st round)
 ---
 
 
@@ -17,6 +20,3 @@ An attempt to branch out a bit from our [Czech Pilzner]({{< ref "czech-again"
 at the [2025 Pints for Paws](/post/2025-01-29-2025-pints-for-paws/) charity
 festival. Similar to a German pilsner, it differentiates itself with dose of
 aroma courtesy of dry-hopped Saphir hops.
-
-Awards:
-* **Bronze medal**: 2025 First-round National Homebrew Competition
