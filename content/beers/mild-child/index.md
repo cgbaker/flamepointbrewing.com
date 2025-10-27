@@ -9,6 +9,8 @@ params:
   fg: 1.014
   ibus: 18
   abv: 3.2
+  festivals:
+  - 2025 Hogtown Beer Festival
 ---
 
 Low hops. Low carbonation. Low alcohol. You’ll just have to drink a bunch of them. Per the BJCP:

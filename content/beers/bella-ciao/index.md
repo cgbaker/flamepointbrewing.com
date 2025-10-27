@@ -9,6 +9,10 @@ params:
   fg: 1.008
   ibus: 28
   abv: 4.6
+  festivals:
+  - 2025 Pints for Paws
+  - 2025 Hogtown Beer Festival
+  - 2025 Tallahassee Beer Festival
   awards: 
     bronze: 
     - 2025 National Homebrew Competition (1st round)
