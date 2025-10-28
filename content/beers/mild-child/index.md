@@ -9,6 +9,7 @@ params:
   fg: 1.014
   ibus: 18
   abv: 3.2
+  untappd: https://untappd.com/b/flame-point-brewing-mild-child/6340144
   festivals:
   - 2025 Hogtown Beer Festival
 ---

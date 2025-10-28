@@ -9,11 +9,12 @@ params:
   fg: 1.007
   ibus: 23
   abv: 3.4
+  untappd: https://untappd.com/b/flame-point-brewing-ale-pastor/6456301
   festivals:
   - 2025 St. Mark's Beer Festival
   awards:
     silver:
-    - 2025 St. Marks' Beer Festival (Best Beer)
+    - 2025 St. Mark's Beer Festival
 ---
 
 A riff off our classic [Grodziski]({{< ref "grodziskie" >}}), this beer is dosed with jalepeños to spice things up and pineapple to smooth them back out.

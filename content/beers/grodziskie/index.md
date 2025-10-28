@@ -9,6 +9,7 @@ params:
   fg: 1.009
   ibus: 32
   abv: 3.2
+  untappd: https://untappd.com/b/flame-point-brewing-where-there-s-smoke/6140280
   festivals:
   - 2025 Pints for Paws
   - 2025 Tallahassee Beer Festival

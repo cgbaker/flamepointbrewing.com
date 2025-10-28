@@ -50,6 +50,7 @@ pygmentsCodefencesGuessSyntax = true
   facebook = "61572783650248"
   github = "https://github.com/cgbaker/flamepointbrewing.com"
   instagram = "flamepointbrewing"
+  untappd = "FlamePointBrewing"
   # youtube = "user/username" # or channel/channelname
 
 [[menu.main]]
