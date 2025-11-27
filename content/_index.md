@@ -2,7 +2,7 @@
 ---
 {{< columns >}}
   {{< figure 
-    src="/images/logo.png"
+    src="/images/primary-fullcolor-dark.png"
     alt="Flame Point Brewing logo, a hand-drawn image of a flame point siamese cat with the brewery name scrawled on the outside"
     width="80%"
     class="center"
