@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About Us
 comments: false
 bigimg: [{"src": "/images/equipment.jpg"}]
 ---
