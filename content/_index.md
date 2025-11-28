@@ -8,7 +8,6 @@
     class="center"
   >}}
 {{< column >}}
-  ### Welcome!
   
   We are a home brewery in Marianna, FL who serve our beer at charity events around North Florida.
   
