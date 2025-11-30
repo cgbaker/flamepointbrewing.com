@@ -64,6 +64,6 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    name = "Blog"
+    name = "Brewer's Notes"
     url = "post/"
     weight = 3
