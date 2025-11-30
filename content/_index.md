@@ -14,7 +14,7 @@
   This page exists to provide more information about our beers for folks who've tried them, as well as to give updates 
   on past and upcoming events where you can find us.
 
-  [Click here]({{< ref "about">}}) to learn more about us, check out our [beer list]({{< ref "beers" >}}), or see what's been happening on the [blog]({{< ref "post" >}}).
+  [Click here]({{< ref "about">}}) to learn more about us, check out our [beer list]({{< ref "beers" >}}), or check up on the [latest events]({{< ref "post" >}}).
 
   Thanks for stopping by!  
 
