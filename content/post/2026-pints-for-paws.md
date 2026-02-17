@@ -23,6 +23,6 @@ aware of it, few had ever tried one.
 
 Aside from the adorable pups there for adoption, the highlight this year was the snow. Last year, we had a blizzard (9" here in Marianna) the week before the festival, and we rolled
 up to the festival on Saturday with snow still on the ground. This year, the weather was warmer, but we still had flurries on and off for hours.
-I think there's a good case to be made the P4P is the coldest beer festival in Florida!
+I think there's a case to be made that P4P is the coldest beer festival in Florida!
 
 ![Chris and Kelly, back at Pints for Paws](/images/festivals/2026-p4p-candk.png)
