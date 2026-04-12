@@ -10,8 +10,6 @@ params:
   ibus: 23
   abv: 3.4
   untappd: https://untappd.com/b/flame-point-brewing-ale-pastor/6456301
-  festivals:
-  - 2025 St. Mark's Beer Festival
   awards:
     silver:
     - 2025 St. Mark's Beer Festival

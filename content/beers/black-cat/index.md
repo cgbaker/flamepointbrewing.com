@@ -9,8 +9,6 @@ params:
   fg: 1.012
   ibus: 43
   abv: 4.2
-  festivals:
-  - 2026 Pints for Paws
 ---
 
 Dark and roasty.

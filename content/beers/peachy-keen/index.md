@@ -10,8 +10,6 @@ params:
   ibus: 12
   abv: 6.0
   untappd: https://untappd.com/b/flame-point-brewing-peachy-keen/6457456
-  festivals:
-  - 2025 St. Mark's Beer Festival
 ---
 
 A classic German hefeweizen with a generous dose of peaches.

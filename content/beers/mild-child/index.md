@@ -10,8 +10,6 @@ params:
   ibus: 18
   abv: 3.2
   untappd: https://untappd.com/b/flame-point-brewing-mild-child/6340144
-  festivals:
-  - 2025 Hogtown Beer Festival
 ---
 
 Low hops. Low carbonation. Low alcohol. You’ll just have to drink a bunch of them. Per the BJCP:

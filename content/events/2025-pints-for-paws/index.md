@@ -1,15 +1,11 @@
 ---
 title: "2025 Pints for Paws"
-date: 2025-01-25
 params:
-  event_time: ""
-  location: "Tallahassee, FL"
-  location_url: ""
-  event_type: "beer festival"
-  ticket_url: ""
-  ticket_price: "Free"
-  organizer: "Tallahassee Animal Shelter Foundation"
-  organizer_url: "https://animalshelterfoundation.org/events/pints-for-paws-2025/"
+  date: "2025-01-25"
+  location: "Goodwood Museum & Gardens, Tallahassee, FL"
+  event_url: "https://www.pintsforpaws.com"
+  charity: "Tallahassee Animal Shelter Foundation"
+  charity_url: "https://animalshelterfoundation.org"
   image: "/images/festivals/2025-p4p.jpg"
   beers:
   - bella-ciao

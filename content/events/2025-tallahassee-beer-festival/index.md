@@ -1,15 +1,11 @@
 ---
 title: "2025 Tallahassee Beer Festival"
-date: 2025-10-04
 params:
-  event_time: ""
-  location: "Tallahassee, FL"
-  location_url: ""
-  event_type: "beer festival"
-  ticket_url: ""
-  ticket_price: ""
-  organizer: ""
-  organizer_url: ""
+  date: "2025-08-09"
+  location: "Donald L. Tucker Civic Center, Tallahassee, FL"
+  event_url: "https://tlhbeerfest.com/"
+  charity: ""
+  charity_url: ""
   image: "/images/festivals/2025-tlh-beerfest.png"
   beers:
   - bella-ciao
@@ -17,6 +13,4 @@ params:
   recap: true
 ---
 
-We poured with Dustin and Brian, bringing our
-[Italian Pilsner]({{< ref "bella-ciao" >}}) and
-[Grodziskie]({{< ref "grodziskie" >}}).
+My first time pouring at Tallahassee Beer Festival since 2017. I poured with with Dustin and Brian.

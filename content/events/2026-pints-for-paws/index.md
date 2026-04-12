@@ -1,15 +1,11 @@
 ---
 title: "2026 Pints for Paws"
-date: 2026-02-08
 params:
-  event_time: ""
-  location: "Tallahassee, FL"
-  location_url: ""
-  event_type: "beer festival"
-  ticket_url: ""
-  ticket_price: "Free"
-  organizer: "Tallahassee Animal Shelter Foundation"
-  organizer_url: "https://animalshelterfoundation.org/"
+  date: "2026-01-31"
+  location: "Goodwood Museum & Gardens, Tallahassee, FL"
+  event_url: "https://www.pintsforpaws.com"
+  charity: "Tallahassee Animal Shelter Foundation"
+  charity_url: "https://animalshelterfoundation.org"
   image: "/images/festivals/2026-p4p-candk.png"
   beers:
   - black-cat
@@ -17,7 +13,5 @@ params:
   recap: true
 ---
 
-We returned to Pints for Paws for the second year running, bringing our
-[Black Cat Stout]({{< ref "black-cat" >}}) and
-[Winter Wheat Wine]({{< ref "www" >}}). The festival raised over $55k for the
-Tallahassee Animal Shelter Foundation.
+We returned to Pints for Paws for the second year running. The festival raised over $55k for the
+Tallahassee Animal Shelter Foundation. See the [Pints for Paws writeup]({{< relref "post/2026-pints-for-paws.md" >}}).

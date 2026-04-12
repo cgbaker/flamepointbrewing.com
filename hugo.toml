@@ -54,13 +54,13 @@ pygmentsCodefencesGuessSyntax = true
   # youtube = "user/username" # or channel/channelname
 
 [[menu.main]]
-    name = "Events"
-    url = "events/"
+    name = "About Us"
+    url = "page/about/"
     weight = 1
 
 [[menu.main]]
-    name = "About Us"
-    url = "page/about/"
+    name = "Events"
+    url = "events/"
     weight = 2
 
 [[menu.main]]

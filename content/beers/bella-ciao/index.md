@@ -10,10 +10,6 @@ params:
   ibus: 28
   abv: 4.6
   untappd: https://untappd.com/b/flame-point-brewing-bella-ciao/6140281
-  festivals:
-  - 2025 Pints for Paws
-  - 2025 Hogtown Beer Festival
-  - 2025 Tallahassee Beer Festival
   awards: 
     bronze: 
     - 2025 National Homebrew Competition (1st round)

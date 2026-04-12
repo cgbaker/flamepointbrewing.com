@@ -9,8 +9,6 @@ params:
   fg: 1.021
   ibus: 51
   abv: 8.6
-  festivals:
-  - 2026 Pints for Paws
 ---
 
 A strong wheat beer, smooth and rich, aged with winter fruits (figs and
