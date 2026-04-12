@@ -7,6 +7,7 @@ Hugo static site for Flame Point Brewing (`https://flamepointbrewing.com`). Uses
 - Hugo minimum version: 0.124.0
 - Build: `hugo` (no Makefile; `hugo server` for local dev)
 
+
 ## Repository Structure
 
 ```

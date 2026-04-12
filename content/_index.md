@@ -18,4 +18,6 @@
 
   Thanks for stopping by!  
 
+  {{< next_event >}}
+
 {{< endcolumns >}}

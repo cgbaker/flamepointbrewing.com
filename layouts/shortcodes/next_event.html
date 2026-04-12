@@ -1,0 +1,32 @@
+{{ $now := now }}
+{{ $eventsSection := site.GetPage "events" }}
+{{ if $eventsSection }}
+  {{ $upcoming := slice }}
+  {{ range $eventsSection.Pages }}
+    {{ if gt (time .Params.date) $now }}
+      {{ $upcoming = $upcoming | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $upcoming = sort $upcoming "Params.date" "asc" }}
+  {{ with index $upcoming 0 }}
+    {{ $event := . }}
+    {{ $eventDate := time $event.Params.date }}
+    <div class="next-event-widget">
+      <div class="next-event-label">Next Event</div>
+      <div class="next-event-name">
+        {{ with $event.Params.event_url }}
+          <a href="{{ . }}">{{ $event.Title }}</a>
+        {{ else }}
+          <a href="{{ $event.Permalink }}">{{ $event.Title }}</a>
+        {{ end }}
+      </div>
+      <div class="next-event-details">
+        <span class="next-event-date">{{ $eventDate.Format "January 2, 2006" }}</span>
+        {{ with $event.Params.location }}
+          <span class="next-event-sep">&mdash;</span>
+          <span class="next-event-location">{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
