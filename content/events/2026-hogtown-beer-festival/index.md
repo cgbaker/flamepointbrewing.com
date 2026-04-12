@@ -13,4 +13,4 @@ params:
   recap: true
 ---
 
-This was our second trip to this event, with Kelly and pouring at the NFBL club table once again. Overall, the club had 9 brewers and over 20 beers.
+This was our second trip to this event, with Kelly and I pouring at the NFBL club table once again. Overall, the club had 9 brewers and over 20 beers.
