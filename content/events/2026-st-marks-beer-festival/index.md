@@ -7,6 +7,8 @@ params:
   charity: ""
   charity_url: ""
   image: ""
-  beers: []
+  beers:
+  - czech-again
+  - oyster-stout
   recap: false
 ---

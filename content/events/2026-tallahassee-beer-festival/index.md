@@ -7,6 +7,8 @@ params:
   charity: ""
   charity_url: ""
   image: "/images/festivals/2025-tlh-beerfest.png"
-  beers: []
+  beers:
+  - belgian-pale-ale
+  - lichtenhainer
   recap: false
 ---
