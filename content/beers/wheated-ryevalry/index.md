@@ -2,9 +2,9 @@
 title: "Wheated Rye-valry"
 weight: 0
 params: 
-  bjcp_url: "https://www.bjcp.org/beer-styles/15c-weizenbock/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/10/10c-weizenbock"
   bjcp_name: "Weizenbock"
-  bjcp_id: "15C"
+  bjcp_id: "10C"
   og: 1.072
   fg: 1.018
   ibus: 20

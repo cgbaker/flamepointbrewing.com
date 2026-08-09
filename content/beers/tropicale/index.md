@@ -2,7 +2,7 @@
 title: "Tropicale"
 weight: 8
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/24/24B/belgian-pale-ale/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/18/18b-american-pale-ale"
   bjcp_name: "American Pale Ale"
   bjcp_id: "18B"
   og: 1.046

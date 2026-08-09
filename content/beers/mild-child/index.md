@@ -2,7 +2,7 @@
 title: "Mild Child"
 weight: 2
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/13/13A/dark-mild/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/13/13a-dark-mild"
   bjcp_name: "Dark Mild"
   bjcp_id: "13A"
   og: 1.038

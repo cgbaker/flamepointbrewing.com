@@ -2,7 +2,7 @@
 title: "Ale Pastor"
 weight: 5
 params: 
-  bjcp_url: "https://www.bjcp.org/style/2021/32/32B/specialty-smoked-beer/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/32/32b-specialty-smoked-beer"
   bjcp_name: "Specialty Smoked Beer"
   bjcp_id: "32B"
   og: 1.033

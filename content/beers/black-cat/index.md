@@ -2,7 +2,7 @@
 title: "Black Cat Stout"
 weight: 7
 params: 
-  bjcp_url: "https://www.bjcp.org/beer-styles/13a-dry-stout/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/15/15b-irish-stout"
   bjcp_name: "Dry Irish Stout"
   bjcp_id: "13A"
   og: 1.044

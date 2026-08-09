@@ -2,7 +2,7 @@
 title: "Bella Ciao"
 weight: 4
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/5/5D/german-pils/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/5/5d-german-pils"
   bjcp_name: "Italian Pilsner"
   bjcp_id: "5A"
   og: 1.043

@@ -2,7 +2,7 @@
 title: "American Ale Pastor"
 weight: 6
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/1/1D/american-wheat-beer/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/1/1d-american-wheat-beer"
   bjcp_name: "American Wheat Beer"
   bjcp_id: "1D"
   ibus: 20

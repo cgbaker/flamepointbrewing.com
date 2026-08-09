@@ -2,7 +2,7 @@
 title: "Winter Wheat Wine"
 weight: 6
 params: 
-  bjcp_url: "https://www.bjcp.org/style/2015/22/22D/wheatwine/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/22/22d-wheatwine"
   bjcp_name: "Wheatwine"
   bjcp_id: "22D"
   og: 1.085

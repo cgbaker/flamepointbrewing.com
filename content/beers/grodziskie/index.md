@@ -2,7 +2,7 @@
 title: "Where There's Smoke"
 weight: 3
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/27/27A/historical-beer-piwo-grodziskie/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/27/27e-piwo-grodziskie"
   bjcp_name: "Piwo Grodziskie"
   bjcp_id: "27A"
   og: 1.031 

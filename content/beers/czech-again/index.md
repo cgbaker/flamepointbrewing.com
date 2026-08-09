@@ -2,7 +2,7 @@
 title: "Czech Again"
 weight: 1
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/3/3A/czech-pale-lager/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/3/3a-czech-pale-lager"
   bjcp_name: "Czech Pale Lager"
   bjcp_id: "3A"
   og: 1.031 

@@ -2,7 +2,7 @@
 title: "Last Smoke"
 weight: 9
 params:
-  bjcp_url: "https://www.bjcp.org/style/2021/27/27A/historical-beer-lichtenhainer/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/27/27c-lichtenhainer"
   bjcp_name: "Lichtenhainer"
   bjcp_id: "27A"
   og: 1.034

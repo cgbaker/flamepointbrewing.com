@@ -2,7 +2,7 @@
 title: "Peachy Keen"
 weight: 7
 params: 
-  bjcp_url: "https://www.bjcp.org/style/2021/29/29A/fruit-beer/"
+  bjcp_url: "https://styles.bjcp.org/bjcp-2021-beer/29/29a-fruit-beer"
   bjcp_name: "Peach Hefeweizen"
   bjcp_id: "29A"
   og: 1.056
