@@ -7,6 +7,8 @@ params:
   charity: "Gulfarium"
   charity_url: "https://gulfarium.com/"
   image: ""
-  beers: []
+  beers:
+  - belgian-pale-ale
+  - czech-again
   recap: false
 ---
