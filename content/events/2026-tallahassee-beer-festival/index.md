@@ -4,11 +4,11 @@ params:
   date: "2026-08-08"
   location: "Donald L. Tucker Civic Center, Tallahassee, FL"
   event_url: "https://tlhbeerfest.com/"
-  charity: ""
-  charity_url: ""
-  image: "/images/festivals/2025-tlh-beerfest.png"
+  charity: "United Partners for Human Services"
+  charity_url: "https://uphsfl.org/"
+  image: "/images/festivals/2026-tlh-beerfest.png"
   beers:
-  - belgian-pale-ale
-  - lichtenhainer
+  - tropicale
+  - last-smoke
   recap: false
 ---
