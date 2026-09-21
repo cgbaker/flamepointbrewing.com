@@ -6,7 +6,7 @@ params:
   event_url: "https://gulfarium.com/event/croctoberfest-2026/"
   charity: "Gulfarium"
   charity_url: "https://gulfarium.com/"
-  image: ""
+  image: "/images/festivals/2026-croctoberfest.jpg"
   beers:
   - tropicale
   - last-smoke
